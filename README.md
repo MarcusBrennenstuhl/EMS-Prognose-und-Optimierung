@@ -17,5 +17,5 @@ https://colab.research.google.com/github/MarcusBrennenstuhl/EMS-Prognose-und-Opt
 
 **Hilfsdateien:**
 
-https://colab.research.google.com/github/MarcusBrennenstuhl/EMS-Prognose-und-Optimierung/blob/main/Lastgang.csv
-https://colab.research.google.com/github/MarcusBrennenstuhl/EMS-Prognose-und-Optimierung/blob/main/Spotmarktpreise.txt
+- [Lastgang.csv herunterladen](https://raw.githubusercontent.com/MarcusBrennenstuhl/EMS-Prognose-und-Optimierung/main/Lastgang.csv)
+- [Spotmarktpreise.txt herunterladen](https://raw.githubusercontent.com/MarcusBrennenstuhl/EMS-Prognose-und-Optimierung/main/Spotmarktpreise.txt)
