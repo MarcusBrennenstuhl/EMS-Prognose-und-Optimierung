@@ -1,10 +1,10 @@
 # EMS-Prognose-und-Optimierung
 
-**PV-Prognose-Modell:** [PV_Prognose.ipynb](https://colab.research.google.com/github/MarcusBrennenstuhl/EMS-Prognose-und-Optimierung/blob/main/PV_Prognose.ipynb)
+### Modelle & Optimierung
+* 🌐 **PV-Prognose-Modell:** <a href="https://colab.research.google.com/github/MarcusBrennenstuhl/EMS-Prognose-und-Optimierung/blob/main/PV_Prognose.ipynb" target="_blank">PV_Prognose.ipynb in Google Colab öffnen</a>
+* 🌐 **Stromlast-Prognose-Modell:** <a href="https://colab.research.google.com/github/MarcusBrennenstuhl/EMS-Prognose-und-Optimierung/blob/main/Lastprofil_Clustering.ipynb" target="_blank">Lastprofil_Clustering.ipynb in Google Colab öffnen</a>
+* 🌐 **Optimierung:** <a href="https://colab.research.google.com/github/MarcusBrennenstuhl/EMS-Prognose-und-Optimierung/blob/main/Optimization.ipynb" target="_blank">Optimization.ipynb in Google Colab öffnen</a>
 
-**Stromlast-Prognose-Modell:** [Lastprofil_Clustering.ipynb](https://colab.research.google.com/github/MarcusBrennenstuhl/EMS-Prognose-und-Optimierung/blob/main/Lastprofil_Clustering.ipynb)
-
-**Optimierung:** [Optimization.ipynb](https://colab.research.google.com/github/MarcusBrennenstuhl/EMS-Prognose-und-Optimierung/blob/main/Optimization.ipynb)
-
-**Hilfsdateien:** [Lastgang.csv herunterladen](https://raw.githubusercontent.com/MarcusBrennenstuhl/EMS-Prognose-und-Optimierung/main/Lastgang.csv)
-[Spotmarktpreise.txt herunterladen](https://raw.githubusercontent.com/MarcusBrennenstuhl/EMS-Prognose-und-Optimierung/main/Spotmarktpreise.txt)
+### Hilfsdateien
+* 💾 **Lastgang:** <a href="https://raw.githubusercontent.com/MarcusBrennenstuhl/EMS-Prognose-und-Optimierung/main/Lastgang.csv" target="_blank">Lastgang.csv herunterladen</a>
+* 💾 **Spotmarktpreise:** <a href="https://raw.githubusercontent.com/MarcusBrennenstuhl/EMS-Prognose-und-Optimierung/main/Spotmarktpreise.txt" target="_blank">Spotmarktpreise.txt herunterladen</a>
